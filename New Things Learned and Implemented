@@ -1,0 +1,10 @@
+1. It is one of the tas given by my Mentor in my previous Organization, 
+    where he gave "APNA-Job portal" as reference and told me to first understand structure; list possible API's in Excel sheet and then start 
+    whole work.
+2. As usual, configured basic TypeScript as required.
+3. As similar to AWS S3 bucket, Implemented FireBase Storage bucket and stored Images in it which gave Download URL which is stored in MongoDB database
+4. Implemented :   
+                 (i). User (Job-seeker) Login ; Authorisation with JWT token
+                (ii). With OTP validation with Expiration; Did'nt implement Twillio OTP sending in this mini-project as I did in my previous.
+                (iii). Implemented API for User to get Jobs based on Job Role, Salary, User's Pre-defined Suggestions
+                (iv). API to store Applications in User's Point of view and Employer's Point of view
